@@ -3,9 +3,13 @@
     notepad index.html
 ### create new repository
    continue the process of creating repository
+   
    place index.html file in folder
+   
    open that folder and open git bash there
+   
        #### intialize the folder with git
+       
                 git init
                 git status
                 git add .
