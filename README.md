@@ -17,3 +17,14 @@
                 git remote add hello https://github.com/Svkrishna26/My_Profile.git
                 git remote
                 git push hello master
+                
+#### Open Our Target Repository
+    Go to settings
+    Next Goto Manage Access
+    Click "Manage" Hyper Link
+    Then Click "check it out here" Hyper Link
+    In Source:
+        Select 'Branch' as "Master"
+    Save It
+    Link Will be Generated
+        Open the Link
