@@ -8,7 +8,7 @@
    
    open that folder and open git bash there
    
-       #### intialize the folder with git
+       --> intialize the folder with git
        
                 git init
                 git status
