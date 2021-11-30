@@ -20,7 +20,7 @@
                 
 #### Open Our Target Repository
     Go to settings
-    Next Goto Manage Access
+    Next Goto "Manage Access" in Side Bar
     Click "Manage" Hyper Link
     Then Click "check it out here" Hyper Link
     In Source:
